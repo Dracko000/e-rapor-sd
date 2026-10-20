@@ -1,0 +1,14 @@
+tailwind/node_modules/
+
+wwwroot/writable/session/*
+!wwwroot/writable/session/index.html
+wwwroot/writable/cache/*
+!wwwroot/writable/cache/index.html
+wwwroot/writable/debugbar/*
+!wwwroot/writable/debugbar/index.html
+wwwroot/writable/logs/*
+!wwwroot/writable/logs/index.html
+
+dbapp/postmaster.pid
+dbapp/postmaster.opts
+dbapp/pg_stat_tmp/

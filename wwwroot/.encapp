@@ -1,0 +1,4 @@
+U_PASS=rsp_2025*dev_rebornrapor#
+U_USER=postgres
+DB_PORT=55577
+WebPort=8535

@@ -1,0 +1,14 @@
+=====================
+Aplikasi e-Rapor SD
+=====================
+
+Untuk meng-uninstall, masuk ke Control Panel > Add/Remove Programs.
+Mohon diperhatikan bahwa SELURUH DATA ERAPOR YANG TERSIMPAN AKAN DIHAPUS jika aplikasi di-uninstall, 
+Jika data sudah terisi, lakukan backup data terlebih dahulu sebelum menghapus / meng-uninstall aplikasi.
+
+Jangan sesekali uninstall Aplikasi jika Tidak ingin data terhapus.
+Jika Muncul Updater, segera lakukan Update tanpa harus menghapus aplikasi lama.
+
+ttd
+Pengembang Aplikasi
+2025
