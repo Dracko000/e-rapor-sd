@@ -12,3 +12,5 @@ wwwroot/writable/logs/*
 dbapp/postmaster.pid
 dbapp/postmaster.opts
 dbapp/pg_stat_tmp/
+
+serverapp/logs/

@@ -1,8 +1,0 @@
-AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::a003:6856:4d53:ba9e. Set the 'ServerName' directive globally to suppress this message
-[Tue Oct 20 06:28:24.557262 2026] [mpm_winnt:notice] [pid 2584:tid 344] AH00455: Apache/2.4.57 (Win64) PHP/8.2.28 configured -- resuming normal operations
-[Tue Oct 20 06:28:24.557262 2026] [mpm_winnt:notice] [pid 2584:tid 344] AH00456: Apache Lounge VS16 Server built: Apr 14 2023 09:42:54
-[Tue Oct 20 06:28:24.557262 2026] [core:notice] [pid 2584:tid 344] AH00094: Command line: 'C:\\newappraporsd2025\\serverapp\\bin\\httpd.exe -d C:/newappraporsd2025/serverapp'
-[Tue Oct 20 06:28:24.570129 2026] [mpm_winnt:notice] [pid 2584:tid 344] AH00418: Parent: Created child process 4624
-AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::a003:6856:4d53:ba9e. Set the 'ServerName' directive globally to suppress this message
-AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::a003:6856:4d53:ba9e. Set the 'ServerName' directive globally to suppress this message
-[Tue Oct 20 06:28:27.184415 2026] [mpm_winnt:notice] [pid 4624:tid 372] AH00354: Child: Starting 150 worker threads.
